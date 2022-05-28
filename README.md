@@ -1,2 +1,4 @@
-# sidedish
-그룹 프로젝트 #2
+# Sidedish (BE)
+
+멤버 : Yan, 포키
+
